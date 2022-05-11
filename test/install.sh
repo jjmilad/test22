@@ -12,4 +12,5 @@ python3 -m pip install browser_cookie3
 python3 -m pip install django_user_agents
 
 cd phishing
+python3 manage.py migrate
 python3 manage.py runserver
