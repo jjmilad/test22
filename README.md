@@ -1,7 +1,7 @@
 *** hello freind ***
 
-Git clone https://github.com/jjmilad/test22
-Cd test22
-Cd test
-chmod +x install.sh 
+Git clone https://github.com/jjmilad/test22 \n
+Cd test22 \n
+Cd test \n
+chmod +x install.sh  \n
 ./install.sh
